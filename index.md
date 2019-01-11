@@ -275,8 +275,8 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   'tools/check' as well.
 {% endcomment %}
 
-<h2 id="setup"><a href="http://swcarpentry.github.io/shell-novice/setup.html" target=_blank>
-Setup</a></h2>
+<h2 id="setup">
+Setup</h2>
 
 <p>
   To participate in a
